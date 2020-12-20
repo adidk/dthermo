@@ -12,12 +12,12 @@
 <div class="container">
     <div class="row mt-5 mb-5">
         <div class="col-12">
-            <h2>dTHERMO Industrial</h2><br>
+            <h2>PT. DELTA THERMO INDUSTRI</h2><br>
             <p class="text-size-19 text-justify">
                 Mr. Hendra BR founded Polaris Scientific (Indonesia) in July 2000, representing SPECTRON INC X-Ray Spectrometer, PG Instruments UV-VIS & AA Spectrometer, Turner Designs hydrocarbon in water analyzer, Sycopel corrosion monitoring, CI Analytics chromatograph products line, Scientech balance and Interspectrum FTIR. The proprietorship expanded rapidly as market demand for Temperature Sensor products innovative grew in Indonesia. In year 2006 THERMO-C PT Thermo-Control Devices CV established as the engineering company to support Polaris Scientific PT, by end of year 2008 the company has been appointed by Thermo-Couple Products Co Illinois a manufacurer of Thermo-Couples, RTD, Thermistor and Thermowell manufacturer for Sales representative for Indonesia country. End of Year 2014 the company of dTHERMO Industrial (Indonesia) established was company limited registered under the laws of Indonesia to form dTHERMO Industrial (Indonesia)., PT Perseroan Terbatas (company limited) as Engineering Company with product and service line consists of Temperature Sensor, Process Control Instrumentations, Laboratory Scientific, Mechanical and Electricals, These products are suitable for use in industrial applications such as Power Generator, Oil and Gas & Petrochemical, Cement & Mining. We also provide Overhoul, Maintenance, repair service, manpower supply services, calibration and service workshop facilities.
             </p>
             <p class="text-size-19 text-justify">
-                dTHERMO INDUSTRIAL (Indonesia) is dedicated to developing and providing cost effective, quality solutions to our customer’s temperature sensor needs. Its employees, customers and suppliers, and their perception of how well dTHERMO balances the following guidelines, will judge the measurement on how successful this company is in executing the Vision & Mission Statement.
+                PT. DELTA THERMO INDUSTRI (Indonesia) is dedicated to developing and providing cost effective, quality solutions to our customer’s temperature sensor needs. Its employees, customers and suppliers, and their perception of how well dTHERMO balances the following guidelines, will judge the measurement on how successful this company is in executing the Vision & Mission Statement.
             </p>
             <br>
 

@@ -32,38 +32,101 @@
 <section id="cardbbutton">
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
-                <a class="link-custom-2" href="#">
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="P_automationinst.php">
                     <div class="card d-flex card-block">
                         <div class="card-body card-product align-items-center d-flex justify-content-center">
-                            <div>Temperature Sensor</div>
+                            <div>Automation Instrumentation</div>
                         </div>
                     </div>
                 </a>
             </div>
-            <div class="col-md-3">
-                <a class="link-custom-2" href="#">
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="P_presureinst.php">
                     <div class="card d-flex card-block">
                         <div class="card-body card-product align-items-center d-flex justify-content-center">
-                            <div>Process Instrumentations and Controls</div>
+                            <div>Pressure Instrumentation</div>
                         </div>
                     </div>
                 </a>
             </div>
-            <div class="col-md-3">
-                <a class="link-custom-2" href="#">
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="P_temperatureins.php">
                     <div class="card d-flex card-block">
                         <div class="card-body card-product align-items-center d-flex justify-content-center">
-                            <div>Laboratory & Scientific Products</div>
+                            <div>Temperature Instrumentation</div>
                         </div>
                     </div>
                 </a>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="P_flowinst.php">
+                    <div class="card d-flex card-block">
+                        <div class="card-body card-product align-items-center d-flex justify-content-center">
+                            <div>Flow Instrumentation</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="P_levelinst.php">
+                    <div class="card d-flex card-block">
+                        <div class="card-body card-product align-items-center d-flex justify-content-center">
+                            <div>Level Instrumentation</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="P_contorlnmonitoring.php">
+                    <div class="card d-flex card-block">
+                        <div class="card-body card-product align-items-center d-flex justify-content-center">
+                            <div>Control & Monitoring System</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="P_Indelcsuplies.php">
+                    <div class="card d-flex card-block">
+                        <div class="card-body card-product align-items-center d-flex justify-content-center">
+                            <div>Industrial Electrical Supplies</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 mt-3 mb-3">
                 <a class="link-custom-2" href="#">
                     <div class="card d-flex card-block">
                         <div class="card-body card-product align-items-center d-flex justify-content-center">
-                            <div>Mechanical & Electrical</div>
+                            <div>Gas Analytics Instrumentation</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="#">
+                    <div class="card d-flex card-block">
+                        <div class="card-body card-product align-items-center d-flex justify-content-center">
+                            <div>Liquid Analytics Instrumentation</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="#">
+                    <div class="card d-flex card-block">
+                        <div class="card-body card-product align-items-center d-flex justify-content-center">
+                            <div>Handheld Test Devices</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 mt-3 mb-3">
+                <a class="link-custom-2" href="#">
+                    <div class="card d-flex card-block">
+                        <div class="card-body card-product align-items-center d-flex justify-content-center">
+                            <div>Laboratory Equipment and Analytical Instruments</div>
                         </div>
                     </div>
                 </a>

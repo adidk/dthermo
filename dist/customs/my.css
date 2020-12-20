@@ -57,6 +57,11 @@
   position: relative; 
 }
 
+.no-bg{
+  background-color: transparent;
+  border: 0;
+}
+
 .footer-link a{
   color: #f1f1f1;
   font-size: 20px;
@@ -265,8 +270,17 @@ button .tablink{
     height: 400px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    
+    background-size: cover; 
+  }
+
+  .hero-image2 {
+    position: relative;
+    overflow: hidden;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    border-radius: .5rem;
   }
 
   .img-footer{

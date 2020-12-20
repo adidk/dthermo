@@ -61,6 +61,12 @@
         $('#dProduct').toggleClass('show');
         $('#submenu').removeClass(' col-3').addClass(' col-12');
         $('#submenu-content').addClass(' remove');
+
+    }
+    if ($(window).width() <= 992) {
+        $('#dProduct').remove();
+    } else if ($(window).width() > 992) {
+        $('#Producs-small').remove();
     }
     // dropdown product
     $('li.nav-item #adProduct').hover(function(e) {

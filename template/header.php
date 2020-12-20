@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="image/logod.png">
-    <title>DTHERMO INDUSTRIAL INSTRUMENTATION</title>
+    <title>DELTA THERMO INDUSTRI</title>
 
 
     <!-- bootstrap -->
@@ -56,7 +56,170 @@
                     <li class="nav-item ">
                         <a class="nav-link" href="about_us.php">Who We Are </a>
                     </li>
+                    <li class="nav-item dropdown" id="Producs-small">
+                        <a class="nav-link" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Products
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="P_automationinst.php">Automation Instrumentation</a>
+                            <a class="dropdown-item" href="P_presureinst.php">Pressure Instrumentation</a>
+                            <a class="dropdown-item" href="P_temperatureins.php">Temperature Instrumentation</a>
+                            <a class="dropdown-item" href="P_flowinst.php">Flow Instrumentation</a>
+                            <a class="dropdown-item" href="P_levelinst.php">Level Instrumentation</a>
+                            <a class="dropdown-item" href="P_contorlnmonitoring.php">Control & Monitoring System</a>
+                            <a class="dropdown-item" href="P_Indelcsuplies.php">Industrial Electrical Supplies</a>
+                            <a class="dropdown-item" href="#">Gas Analytics Instrumentation</a>
+                            <a class="dropdown-item" href="#">Liquid Analytics Instrumentation</a>
+                            <a class="dropdown-item" href="#">Handheld Test Devices</a>
+                            <a class="dropdown-item" href="#">Laboratory Equipment and Analytical Instruments</a>
+                        </div>
+                    </li>
                     <li class="nav-item dropdown has-megamenu" id="dProduct">
+                        <a class="nav-link" href="product.php" id="adProduct"> Products </a>
+                        <div id="dProduct-sub" class="dropdown-menu megamenu p-0 mt-0">
+                            <div class="container">
+                                <div class="row">
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="P_automationinst.php">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Automation Instrumentation</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="P_presureinst.php">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Pressure Instrumentation</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="P_temperatureins.php">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Temperature Instrumentation</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="P_flowinst.php">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Flow Instrumentation</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="P_levelinst.php">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Level Instrumentation</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="P_contorlnmonitoring.php">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Control & Monitoring System</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="P_Indelcsuplies.php">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Industrial Electrical Supplies</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="#">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Gas Analytics Instrumentation</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="#">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Liquid Analytics Instrumentation</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="#">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Handheld Test Devices</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
+                                        <a class="link-custom-2" href="#">
+                                            <div class="card d-flex card-block no-bg">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
+                                                    <div class="hero-text">
+                                                        <p class="text-size-18">Laboratory Equipment and Analytical Instruments</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="submenu" class="col-3 pr-0 mt-3 mb-3 invisible">
+                                        <div class="card text-white">
+                                            <img class="card-img" src="image/bg-produk.jpg" alt="Card image" style="height: 150px;">
+                                            <div class="card-img-overlay">
+                                                <h5 class="card-title">Card title</h5>
+                                                <p class="card-text">This is a wider card with
+                                                    supporting text below as a natural lead-in
+                                                    to
+                                                    additional content. This content is a little
+                                                    bit
+                                                    longer.</p>
+                                                <p class="card-text">Last updated 3 mins ago</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!-- <li class="nav-item dropdown has-megamenu" id="dProduct">
                         <a class="nav-link" href="product.php" id="adProduct"> Products </a>
                         <div id="dProduct-sub" class="dropdown-menu megamenu p-0 mt-0">
                             <div class="container">
@@ -321,8 +484,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> <!-- dropdown-mega-menu.// -->
-                    </li>
+                        </div>
+                    </li> -->
                     <li class="nav-item dropdown has-megamenu " id="dServices">
                         <a class="nav-link" href="services.php" id="adServices"> Services </a>
                         <div id="dServices-sub" class="dropdown-menu megamenu p-0">
