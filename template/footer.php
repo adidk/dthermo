@@ -7,9 +7,8 @@
                     <h4 class="text-white">Office</h4>
                 </div>
                 <div class=" p-1 text-white footer-link">
-                    <a href="https://goo.gl/maps/khWzB1srcgAgpHGR8"><i class="fa fa-fw fa-map-marker-alt"></i> Jl.
-                        Semingkir No. 22
-                        Rejasari, Purwokerto Barat</a><br>
+                    <a href="https://goo.gl/maps/khWzB1srcgAgpHGR8"><i class="fa fa-fw fa-map-marker-alt"></i>Jl. Semingkir No. 22
+                        Rejasari, Purwokerto Barat 53134,Kab. Banyumas, Jawa Tengah, Indonesia. </a><br>
                     <a href="mailto: sales@dthermo.com"><i class="fa fa-fw fa-envelope"></i>
                         sales@dthermo.com</a><br>
                     <a href="tel: 62-281-5567777"><i class="fa fa-fw fa-phone"></i> +62-281-5567777</a>

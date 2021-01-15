@@ -14,16 +14,16 @@
             <div class="col-md-3 text-center">
                 <i class="fa fa-fw fa-map-marker-alt text-size-16"></i><br>
                 <h4>ADDRESS</h4>
-                <a href="https://goo.gl/maps/khWzB1srcgAgpHGR8" class="text-size-23 link-custom-2">PT. dThermo Industrial
+                <a href="https://goo.gl/maps/khWzB1srcgAgpHGR8" class="text-size-23 link-custom-2">PT. Delta Thermo Industri
                     <br>Jl. Semingkir No. 22
-                    Rejasari, Purwokerto Barat, PURWOKERTO 53134
+                    Rejasari, Purwokerto Barat 53134,Kab. Banyumas, Jawa Tengah, Indonesia. 
                 </a>
             </div>
             <div class="col-md-3 text-center">
                 <i class="fa fa-fw fa-envelope text-size-16"></i><br>
                 <h4>EMAIL</h4>
-                <a href="mailto: sales@dthermo.com" class="text-size-23 link-custom-2">
-                    sales@dthermo.com</a><br>
+                <a href="mailto: service@dthermo.com" class="text-size-23 link-custom-2">
+                service@dthermo.com</a><br>
             </div>
             <div class="col-md-3 text-center">
                 <i class="fa fa-fw fa-phone text-size-16"></i><br>
@@ -35,7 +35,7 @@
                 <i class="fab fa-fw fa-instagram text-size-16"></i><br>
                 <h4>Media</h4>
                 <a href="#" class="text-size-23 link-custom-2">
-                    @dthermoindustrial</a><br>
+                    @ptdeltathermoindustri</a><br>
             </div>
         </div>
     </div>

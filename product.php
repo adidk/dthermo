@@ -12,16 +12,16 @@
     <div class="row mt-5 mb-5">
         <div class="col-12">
             <p class="text-size-19 text-justify">
-                Dthermo Industrial, a full service technical and manufacturing company, offers a full range of direct contact temperature measurement instrumentation as well as front end and back end technical services.
+                PT. Delta Thermo Industri, a full service technical and manufacturing representative company, offers a full range of Process Control Instrumentation and Laboratory Scientific Products as well as front end and back end Technical Services.
             </p><br>
             <p class="text-size-19 text-justify">
                 Products include both standard and fully customized temperature instrumentation for the process industries. Dthermo Industrial employs full time mechanical, chemical, and electrical graduate engineers dedicated to:
                 <ul class="text-size-19">
-                    <li>the analysis of the application and its thermal and velocity constraints</li>
-                    <li>design of instrumentation both in direct and indirect contact with the process conditions</li>
-                    <li>production/manufacturing</li>
-                    <li>inspection and quality review</li>
-                    <li>installation, assembly, and on-site needs</li>
+                    <li>The analysis of the application and its thermal and velocity constraints</li>
+                    <li>Design of instrumentation both in direct and indirect contact with the process conditions</li>
+                    <li>Production/assembly/integration</li>
+                    <li>Inspection and quality review</li>
+                    <li>Installation, assembly, and on-site needs</li>
                 </ul>
             </p><br>
 
@@ -96,7 +96,7 @@
                 </a>
             </div>
             <div class="col-md-3 mt-3 mb-3">
-                <a class="link-custom-2" href="#">
+                <a class="link-custom-2" href="P_gasanalytics.php">
                     <div class="card d-flex card-block">
                         <div class="card-body card-product align-items-center d-flex justify-content-center">
                             <div>Gas Analytics Instrumentation</div>
@@ -105,7 +105,7 @@
                 </a>
             </div>
             <div class="col-md-3 mt-3 mb-3">
-                <a class="link-custom-2" href="#">
+                <a class="link-custom-2" href="P_liquidanalyticsinst.php">
                     <div class="card d-flex card-block">
                         <div class="card-body card-product align-items-center d-flex justify-content-center">
                             <div>Liquid Analytics Instrumentation</div>
@@ -114,7 +114,7 @@
                 </a>
             </div>
             <div class="col-md-3 mt-3 mb-3">
-                <a class="link-custom-2" href="#">
+                <a class="link-custom-2" href="P_handhealdtestdevice.php">
                     <div class="card d-flex card-block">
                         <div class="card-body card-product align-items-center d-flex justify-content-center">
                             <div>Handheld Test Devices</div>
@@ -123,7 +123,7 @@
                 </a>
             </div>
             <div class="col-md-3 mt-3 mb-3">
-                <a class="link-custom-2" href="#">
+                <a class="link-custom-2" href="P_laboratoryeq.php">
                     <div class="card d-flex card-block">
                         <div class="card-body card-product align-items-center d-flex justify-content-center">
                             <div>Laboratory Equipment and Analytical Instruments</div>

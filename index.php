@@ -6,9 +6,9 @@
     <div class="container">
         <div class="row mt-3">
             <div class="col-md-12">
-                <p class="text-center text-size-23 font-weight-500">DTHERMO INDUSTRIAL specializes in high-performance temperature
-                    sensors, process
-                    control instrumentation and Laboratory Scientific for the Industries.</p>
+                <p class="text-center text-size-23 font-weight-500">PT. Delta Thermo Industri specializes in high-performance Temperature
+                    Sensors, Process
+                    Control Instrumentation and Laboratory Scientific for the Industries.</p>
                 <hr>
             </div>
         </div>
@@ -19,17 +19,17 @@
     <div class="row">
         <div class="col-md-6 p-0">
             <a href="product.php">
-                <div class="hero-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                <div class="hero-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                     <div class="hero-text">
                         <h1>Products</h1>
-                        <p class="text-size-18">Sensors, Thermowells, VTM & STM</p>
+                        <p class="text-size-18">Process Control Instrumentation, Laboratory Scientific Products</p>
                     </div>
                 </div>
             </a>
         </div>
         <div class="col-md-6 p-0">
             <a href="services.php">
-                <div class="hero-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/service.jpg');">
+                <div class="hero-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/service.jpg');">
                     <div class="hero-text">
                         <h1>Services</h1>
                     </div>
