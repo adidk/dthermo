@@ -2,23 +2,26 @@
 <section id="footer">
     <div class="container">
         <div class="row">
+            <div class="col-md-2">
+
+            </div>
             <div class="col-md-3">
                 <div class="p-1">
-                    <h4 class="text-white">Office</h4>
+                    <h5 class="text-white">Office</h5>
                 </div>
                 <div class=" p-1 text-white footer-link">
                     <a href="https://goo.gl/maps/khWzB1srcgAgpHGR8"><i class="fa fa-fw fa-map-marker-alt"></i>Jl. Semingkir No. 22
                         Rejasari, Purwokerto Barat 53134,Kab. Banyumas, Jawa Tengah, Indonesia. </a><br>
                     <a href="mailto: sales@dthermo.com"><i class="fa fa-fw fa-envelope"></i>
                         sales@dthermo.com</a><br>
-                    <a href="tel: 62-281-5567777"><i class="fa fa-fw fa-phone"></i> +62-281-5567777</a>
+                    <a href="tel: 62-281-6849664"><i class="fa fa-fw fa-phone"></i> +62-281-6849664</a>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class=" p-1">
-                    <h4 class="text-white">Social Media</h4>
+            <div class="col-md-2">
+                <div class="p-1">
+                    <h5 class="text-white">Social Media</h5>
                 </div>
-                <div class=" p-1 text-white footer-link">
+                <div class="p-1 text-white footer-link">
                     <a href="https://m.facebook.com/Daily-Thermetrics-483493271664410/">
                         <i class="fab fa-fw fa-facebook-square"></i>
                         Facebook</a><br>
@@ -33,9 +36,9 @@
                         Youtube</a><br>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <div class=" p-1">
-                    <h4 class="text-white">Others</h4>
+                    <h5 class="text-white">Others</h5>
                 </div>
                 <div class=" p-1 text-white footer-link">
                     <a href="#">Terms & Conditions</a><br>
@@ -44,7 +47,7 @@
                     <a href="#">Feedback </a><br>
                 </div>
             </div>
-            <div class="col-3 m-auto">
+            <div class="col-2 m-auto">
                 <img src="image/logo_white.png" class="img-fluid" alt="Responsive image">
             </div>
         </div>
@@ -60,12 +63,14 @@
         $('#dProduct').toggleClass('show');
         $('#submenu').removeClass(' col-3').addClass(' col-12');
         $('#submenu-content').addClass(' remove');
+        $('#footer').removeClass(' clippathfooter');
 
     }
     if ($(window).width() <= 992) {
         $('#dProduct').remove();
     } else if ($(window).width() > 992) {
         $('#Producs-small').remove();
+        $('#footer').addClass(' clippathfooter');
     }
     // dropdown product
     $('li.nav-item #adProduct').hover(function(e) {

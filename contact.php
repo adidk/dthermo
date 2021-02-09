@@ -28,8 +28,8 @@
             <div class="col-md-3 text-center">
                 <i class="fa fa-fw fa-phone text-size-16"></i><br>
                 <h4>PHONE</h4>
-                <a href="tel: 62-281-5567777" class="text-size-23 link-custom-2">
-                    +62-281-5567777</a><br>
+                <a href="tel: 62-281-6849664" class="text-size-23 link-custom-2">
+                    +62-281-6849664</a><br>
             </div>
             <div class="col-md-3 text-center">
                 <i class="fab fa-fw fa-instagram text-size-16"></i><br>

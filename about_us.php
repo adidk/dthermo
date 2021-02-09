@@ -31,7 +31,7 @@
             <br>
 
             <ul>
-                <li class="text-size-19 text-justify">• To be a leader in supplying, custom design and assembly of Process Control Instrumentations and Laboratory Scientific products line in territory of Indonesia market. </li>
+                <li class="text-size-19 text-justify">To be a leader in supplying, custom design and assembly of Process Control Instrumentations and Laboratory Scientific products line in territory of Indonesia market. </li>
             </ul>
             <br>
             <h2>Mission:</h2>

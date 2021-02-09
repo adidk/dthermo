@@ -16,6 +16,10 @@
   position: relative; 
 }
 
+.clippathfooter{
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 15% 100%);
+}
+
 #cardbbutton{
   padding: 50px 0 30px 0;
   position: relative; 
@@ -64,7 +68,7 @@
 
 .footer-link a{
   color: #f1f1f1;
-  font-size: 20px;
+  font-size: 16px;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
@@ -145,6 +149,14 @@ a:hover.link-custom-2{
 
 .bg-white-80{
   background-color: #f3f3f3;
+}
+
+.bg-grey{
+  background-color: #313131;
+}
+
+body,html{
+  height: 100%;
 }
 
 .text-dblue{
@@ -323,6 +335,14 @@ button .tablink{
   text-align: center;
   margin: auto;
 }
+
+.triangel{
+  background-color: #ffffff;
+  background-image: url("../../image/carousel/slide1.png");
+  background-size: cover;
+  clip-path: polygon(0 0, 75% 0, 100% 100%, 0% 100%);
+}
+
 
 .remove{
   display: none;

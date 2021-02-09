@@ -82,7 +82,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_automationinst.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Automation Instrumentation</p>
                                                     </div>
@@ -93,7 +93,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_presureinst.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Pressure Instrumentation</p>
                                                     </div>
@@ -104,7 +104,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_temperatureins.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Temperature Instrumentation</p>
                                                     </div>
@@ -115,7 +115,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_flowinst.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Flow Instrumentation</p>
                                                     </div>
@@ -126,7 +126,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_levelinst.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Level Instrumentation</p>
                                                     </div>
@@ -137,7 +137,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_contorlnmonitoring.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Control & Monitoring System</p>
                                                     </div>
@@ -148,7 +148,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_Indelcsuplies.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Industrial Electrical Supplies</p>
                                                     </div>
@@ -159,7 +159,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_gasanalytics.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Gas Analytics Instrumentation</p>
                                                     </div>
@@ -170,7 +170,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_liquidanalyticsinst.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Liquid Analytics Instrumentation</p>
                                                     </div>
@@ -181,7 +181,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_handhealdtestdevice.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Handheld Test Devices</p>
                                                     </div>
@@ -192,7 +192,7 @@
                                     <div id="submenu" class="col-3 pr-0 mt-3 mb-3">
                                         <a class="link-custom-2" href="P_laboratoryeq.php">
                                             <div class="card d-flex card-block no-bg">
-                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                     <div class="hero-text">
                                                         <p class="text-size-18">Laboratory Equipment and Analytical Instruments</p>
                                                     </div>
@@ -248,7 +248,7 @@
                                                         <div class="col-4 mb-2 mt-2">
                                                             <a class="link-custom-2" href="P_automationinst.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Automation Instrumentation</p>
                                                                         </div>
@@ -259,7 +259,7 @@
                                                         <div class="col-4 mb-2 mt-2">
                                                             <a class="link-custom-2" href="P_presureinst.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Pressure Instrumentation</p>
                                                                         </div>
@@ -270,7 +270,7 @@
                                                         <div class="col-4 mb-2 mt-2">
                                                             <a class="link-custom-2" href="P_temperatureins.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Temperature Instrumentation</p>
                                                                         </div>
@@ -281,7 +281,7 @@
                                                         <div class="col-4 mb-2 mt-2">
                                                             <a class="link-custom-2" href="P_flowinst.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Flow Instrumentation</p>
                                                                         </div>
@@ -292,7 +292,7 @@
                                                         <div class="col-4 mb-2 mt-2">
                                                             <a class="link-custom-2" href="P_levelinst.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Level Instrumentation</p>
                                                                         </div>
@@ -303,7 +303,7 @@
                                                         <div class="col-4 mb-2 mt-2">
                                                             <a class="link-custom-2" href="P_gasanalytics.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Gas Analytics Instrumentation</p>
                                                                         </div>
@@ -314,7 +314,7 @@
                                                         <div class="col-4 mb-2 mt-2">
                                                             <a class="link-custom-2" href="P_liquidanalyticsinst.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Liquid Analytics Instrumentation</p>
                                                                         </div>
@@ -344,7 +344,7 @@
                                                         <div class="col-4">
                                                             <a class="link-custom-2" href="P_contorlnmonitoring.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Control & Monitoring System</p>
                                                                         </div>
@@ -355,7 +355,7 @@
                                                         <div class="col-4">
                                                             <a class="link-custom-2" href="P_Indelcsuplies.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Industrial Electrical Supplies</p>
                                                                         </div>
@@ -366,7 +366,7 @@
                                                         <div class="col-4">
                                                             <a class="link-custom-2" href="P_handhealdtestdevice.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/mep-commercial-mechanical-electrical-plumbing-layout.jpeg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-18">Handheld Test Devices</p>
                                                                         </div>
@@ -377,7 +377,7 @@
                                                         <div class="col-4 mb-2 mt-2">
                                                             <a class="link-custom-2" href="P_laboratoryeq.php">
                                                                 <div class="card d-flex card-block no-bg">
-                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('image/bg-produk.jpg');">
+                                                                    <div class="hero-image2" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image/bg-produk.jpg');">
                                                                         <div class="hero-text">
                                                                             <p class="text-size-17">Laboratory Equipment and Analytical Instruments</p>
                                                                         </div>
@@ -533,10 +533,10 @@
     </nav>
 
     <!-- carousel -->
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+    <div id="carouselExampleSlidesOnly" class="carousel slide h-50 triangel" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block w-100" src="image/carousel/slide1.jpg" alt="First slide">
+
             </div>
         </div>
     </div>

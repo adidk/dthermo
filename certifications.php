@@ -16,7 +16,13 @@
             </p>
         </div>
         <div class="col-12">
-            
+            <div class="text-center">
+                <img src="image/ANSI.png" class="d-inline-block mx-auto" alt="Dthermo" style="height: 100px;">
+                <img src="image/ASTM.png" class="d-inline-block mx-auto" alt="Dthermo" style="height: 100px;">
+                <img src="image/IEC.png" class="d-inline-block mx-auto " alt="Dthermo" style="height: 100px;">
+                <img src="image/IEEE.png" class="d-inline-block mx-auto" alt="Dthermo" style="height: 100px;">
+            </div>
+
         </div>
     </div>
 </div>
